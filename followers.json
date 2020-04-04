@@ -800,8 +800,8 @@
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/1018149472784789504/1531583895",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1164837684671479808/Zxdjxnmk_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164837684671479808/Zxdjxnmk_normal.jpg",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1246436442584363012/TBC1OlUx_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246436442584363012/TBC1OlUx_normal.jpg",
     "profile_link_color": "981CEB",
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
@@ -1733,6 +1733,7 @@
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
+    "protected": true,
     "screen_name": "bloody__witch"
   },
   {
