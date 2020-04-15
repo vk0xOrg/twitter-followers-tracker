@@ -1340,7 +1340,7 @@
   {
     "created_at": "Mon Mar 16 18:36:47 +0000 2020",
     "default_profile": true,
-    "description": "loyal and outspoke, \nmake every one around me happy\n student, modeling",
+    "description": "loyal and outspoke, \nmake every one around me happy",
     "id": 1239621594873581575,
     "id_str": "1239621594873581575",
     "location": "Florida, USA",
@@ -1354,6 +1354,7 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "EllaJea17011123"
   },
   {
