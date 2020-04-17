@@ -7,7 +7,7 @@
     "id": 3406881981,
     "id_str": "3406881981",
     "location": "Ukraine",
-    "name": "Igor R.",
+    "name": "Ig0rskie",
     "profile_background_color": "C0DEED",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
@@ -190,7 +190,7 @@
   },
   {
     "created_at": "Mon Jul 01 16:36:53 +0000 2013",
-    "description": "\u043b\u044e\u0431\u0438\u0442\u0435\u043b\u044c\u043a\u0430 \u0433\u0456\u0440,\u043a\u043d\u0438\u0436\u043e\u043a \u0456 \u0441\u043f\u043e\u043a\u043e\u044e\ud83e\udde1",
+    "description": "\u043b\u044e\u0431\u0438\u0442\u0435\u043b\u044c\u043a\u0430 \u0433\u0456\u0440,\u043a\u043d\u0438\u0436\u043e\u043a \u0456 \u0442\u0440\u0456\u0448\u043a\u0438 \u0441\u043f\u043e\u043a\u043e\u044e\ud83e\udde1",
     "following": true,
     "id": 1560964279,
     "id_str": "1560964279",
@@ -4195,6 +4195,7 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "Betelgeuseray"
   },
   {
