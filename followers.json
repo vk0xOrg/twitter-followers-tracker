@@ -1497,7 +1497,6 @@
     "created_at": "Wed Jul 09 19:14:40 +0000 2014",
     "default_profile": true,
     "description": "\u0434\u0438\u043f\u043b\u043e\u043c\u043e\u0432\u0430\u043d\u0438\u0439 \u043a\u043e\u0437\u0430\u043a-\u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u0438\u043a | \u0442\u043e\u0439, \u0449\u043e \u0432 \u0441\u043a\u0430\u043b\u0456 \u0441\u0438\u0434\u0438\u0442\u044c",
-    "following": true,
     "geo_enabled": true,
     "id": 2614089355,
     "id_str": "2614089355",
@@ -3294,7 +3293,6 @@
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "JoanMadu83"
   },
   {
