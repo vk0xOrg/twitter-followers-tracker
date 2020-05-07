@@ -1011,7 +1011,7 @@
   {
     "created_at": "Mon Sep 02 21:08:44 +0000 2019",
     "default_profile": true,
-    "description": "\u00d7 \u042d\u043b\u044f\u0447\u044c\u043a\u0430 \u00d7 \u0427\u0430\u0439 \u0441 \u0428\u0418\u041f\u043e\u0432\u043d\u0438\u043a\u043e\u043c \u043f\u044c\u044e 24/7 \u00d7 \u043f\u0438\u043f\u044f\u043e \u00d7 \u0431\u044b\u0432\u0448\u0438\u0439 mooduck \u00d7",
+    "description": "\u00d7 \u041c\u0430\u043a\u0430\u043d\u044c\u043a\u0430\ud83e\udd21 \u00d7 \u0427\u0430\u0439 \u0441 \u0428\u0418\u041f\u043e\u0432\u043d\u0438\u043a\u043e\u043c \u043f\u044c\u044e 24/7 \u00d7 \u043f\u0438\u043f\u044f\u043e \u00d7 \u0431\u044b\u0432\u0448\u0438\u0439 mooduck \u00d7",
     "id": 1168631827495563265,
     "id_str": "1168631827495563265",
     "location": "\u043f\u0441\u0438\u0445\u0443\u0448\u043a\u0430",
@@ -1025,6 +1025,7 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "EbalaYaAlgebry"
   },
   {
