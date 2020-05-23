@@ -1,23 +1,5 @@
 [
   {
-    "created_at": "Mon May 18 18:34:28 +0000 2020",
-    "default_profile": true,
-    "description": "\u0432\u0435\u0441\u0435\u043b\u0435 \u0442\u0430 \u0449\u0430\u0441\u043b\u0438\u0432\u0435 \u0436\u0438\u0442\u0442\u044f \u0432 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u0457",
-    "id": 1262451430297919491,
-    "id_str": "1262451430297919491",
-    "location": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430, \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c",
-    "name": "\u0437\u0435\u043b\u0435\u043d\u043e\u043e\u043a\u0438\u0439 \u0445\u043b\u043e\u043f\u0447\u0438\u043d\u0430",
-    "profile_background_color": "F5F8FA",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1262451761404678144/fYS6wLie_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262451761404678144/fYS6wLie_normal.jpg",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "screen_name": "thatboi_04"
-  },
-  {
     "created_at": "Thu Nov 14 09:32:00 +0000 2019",
     "default_profile": true,
     "description": "\u044f \u0442\u0443\u0442 \u043d\u0435 \u0434\u043b\u044f \u0442\u043e\u0433\u043e, \u0449\u043e\u0431 \u0447\u0438\u0442\u0430\u0442\u0438 \u0440\u0443\u0441\u043d\u044e \u0442\u0430 \u043c\u043e\u0434\u043d\u0438\u0445 \u0431\u043b\u043e\u0433\u0435\u0440\u0456\u0432 \u0441 \u041c\u0430\u0441\u043a\u0432\u0438.",
@@ -1107,25 +1089,6 @@
     "profile_use_background_image": true,
     "screen_name": "_c_o_u_r_a_g_e",
     "url": "https://t.co/e54ItJIqWm"
-  },
-  {
-    "created_at": "Wed Jan 01 20:52:57 +0000 2020",
-    "default_profile": true,
-    "description": "\u0415\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442 \u0431\u0430\u0442\u044c\u043a\u0456\u0432 \u044f\u043a\u0438\u0439 \u0432\u0438\u0439\u0448\u043e\u0432 \u0437 \u043f\u0456\u0434 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044e.\n\u0415\u0433\u043e\u0457\u0441\u0442.\n\u0426\u0438\u043d\u0456\u043a.\n\u0410\u0441\u043e\u0446\u0456\u0430\u043b\u044c\u043d\u0430 \u043b\u0430\u043d\u043a\u0430 \u0441\u0443\u0441\u043f\u0456\u043b\u044c\u0441\u0442\u0432\u0430\n\n\u041b\u044e\u0431\u043b\u044e \u043a\u043e\u0442\u0430,\u0441\u043e\u0431\u0430\u043a\u0443 \u0456 \u0441\u0432\u043e\u044e \u043a\u043d\u0438\u0436\u043d\u0443 \u043f\u043e\u043b\u043a\u0443",
-    "following": true,
-    "id": 1212476778150711296,
-    "id_str": "1212476778150711296",
-    "name": "\u0422\u0440\u0438\u0432\u043e\u0436\u043d\u0438\u0439 a\u0441\u043e\u0446\u0456\u0430\u043b\u044c\u043d\u0438\u0439 \u043c\u0435\u0442\u0435\u043b\u0438\u043a",
-    "profile_background_color": "F5F8FA",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1212476778150711296/1583608015",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1236367744926441472/ks9-dLA5_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236367744926441472/ks9-dLA5_normal.jpg",
-    "profile_link_color": "1DA1F2",
-    "profile_sidebar_border_color": "C0DEED",
-    "profile_sidebar_fill_color": "DDEEF6",
-    "profile_text_color": "333333",
-    "profile_use_background_image": true,
-    "screen_name": "_missing_s"
   },
   {
     "created_at": "Wed Oct 02 14:32:32 +0000 2013",
