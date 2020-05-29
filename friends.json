@@ -177,7 +177,7 @@
   {
     "created_at": "Thu Nov 14 09:32:00 +0000 2019",
     "default_profile": true,
-    "description": "\u044f \u0442\u0443\u0442 \u043d\u0435 \u0434\u043b\u044f \u0442\u043e\u0433\u043e, \u0449\u043e\u0431 \u0447\u0438\u0442\u0430\u0442\u0438 \u0440\u0443\u0441\u043d\u044e \u0442\u0430 \u043c\u043e\u0434\u043d\u0438\u0445 \u0431\u043b\u043e\u0433\u0435\u0440\u0456\u0432 \u0441 \u041c\u0430\u0441\u043a\u0432\u0438.",
+    "description": "\u0412\u0441\u0435 \u0446\u0435 \u0434\u0443\u0436\u0435 \u043f\u0456\u0434\u043e\u0437\u0440\u0456\u043b\u043e.",
     "following": true,
     "id": 1194910793692659713,
     "id_str": "1194910793692659713",
@@ -190,7 +190,8 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
-    "screen_name": "vityunm"
+    "screen_name": "vityunm",
+    "url": "https://t.co/PQlAC3PC8m"
   },
   {
     "created_at": "Mon May 04 12:50:36 +0000 2020",
@@ -2796,7 +2797,7 @@
     "id": 2359386926,
     "id_str": "2359386926",
     "location": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
-    "name": "Andriy Titarenko",
+    "name": "Andriy",
     "profile_background_color": "000000",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
