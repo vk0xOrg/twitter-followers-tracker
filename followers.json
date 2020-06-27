@@ -959,7 +959,6 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "Anastasia_21_21"
   },
   {
@@ -1635,7 +1634,7 @@
   },
   {
     "created_at": "Sun Oct 14 09:16:50 +0000 2012",
-    "description": "Wikipedian @ArabicWikipedia\ninfo@fareeqalmayoofee.com",
+    "description": "Wikipedian @ArabicWikipedia \ninfo@fareeqalmayoofee.com",
     "geo_enabled": true,
     "id": 879719018,
     "id_str": "879719018",
