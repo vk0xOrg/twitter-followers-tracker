@@ -139,9 +139,11 @@
   {
     "created_at": "Thu Aug 02 14:27:28 +0000 2012",
     "default_profile": true,
+    "description": "Materials Science PhD Student",
     "following": true,
     "id": 732930674,
     "id_str": "732930674",
+    "location": "Bratislava",
     "name": "Grisha",
     "profile_background_color": "C0DEED",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
