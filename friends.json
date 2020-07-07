@@ -3739,6 +3739,7 @@
     "id_str": "70098903",
     "location": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430, \u041a\u0438\u0457\u0432",
     "name": "\u0410\u043d\u0434\u0440\u0456\u0439 \u041a\u043e\u0442\u0435\u043d\u043a\u043e",
+    "notifications": true,
     "profile_background_color": "D0E0F0",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
