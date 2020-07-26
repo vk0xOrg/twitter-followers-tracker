@@ -1,5 +1,28 @@
 [
   {
+    "created_at": "Fri Jun 26 19:58:47 +0000 2009",
+    "description": "#libre book sharing @inventaire_io \u2014 omnilearner \u2014 #Wikidata #Wikibase #JS \u2014 born around 352ppm CO\u2082  \u2014 CW: capitalocene, politics, code, and no cats",
+    "following": true,
+    "geo_enabled": true,
+    "id": 51201283,
+    "id_str": "51201283",
+    "location": "capitalocene  \u2014 ~416 ppm CO\u2082",
+    "name": "@maxlath@mastodon.social",
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/51201283/1583881407",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1218221028217905152/WS34p7dE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218221028217905152/WS34p7dE_normal.jpg",
+    "profile_link_color": "033B4D",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "maxlath",
+    "url": "https://t.co/rj2APtBBAU"
+  },
+  {
     "created_at": "Sat Apr 30 03:55:29 +0000 2011",
     "description": "Python developer",
     "following": true,
