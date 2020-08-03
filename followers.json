@@ -2639,7 +2639,6 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
-    "protected": true,
     "screen_name": "kristinabotyuk"
   },
   {
@@ -4034,6 +4033,25 @@
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
     "screen_name": "brianmwirigi6"
+  },
+  {
+    "created_at": "Mon Aug 06 06:58:27 +0000 2018",
+    "default_profile": true,
+    "description": "Police",
+    "id": 1026361845869944832,
+    "id_str": "1026361845869944832",
+    "location": "Islampur",
+    "name": "Gautamkumar957626",
+    "profile_background_color": "F5F8FA",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1026361845869944832/1533542786",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1026379005182787585/FeStanlK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026379005182787585/FeStanlK_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "screen_name": "Gautamkumar9576"
   },
   {
     "created_at": "Mon Aug 06 06:58:27 +0000 2018",
