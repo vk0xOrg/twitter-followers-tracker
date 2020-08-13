@@ -876,8 +876,8 @@
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/3148382613/1593375479",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1277342476043419649/PZMKaRwx_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277342476043419649/PZMKaRwx_normal.jpg",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1293937362339274753/AB2L1TU5_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1293937362339274753/AB2L1TU5_normal.jpg",
     "profile_link_color": "7FDBB6",
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
@@ -3571,7 +3571,8 @@
     "profile_sidebar_fill_color": "DDEEF6",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
-    "screen_name": "JonquilLuminous"
+    "screen_name": "JonquilLuminous",
+    "url": "https://t.co/L1saqZTGfL"
   },
   {
     "created_at": "Fri Nov 29 10:09:18 +0000 2019",
