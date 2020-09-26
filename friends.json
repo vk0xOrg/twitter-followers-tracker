@@ -629,7 +629,7 @@
   },
   {
     "created_at": "Fri Jan 10 03:26:43 +0000 2014",
-    "description": "Analyst focused on Ukraine. @euobs, @AtlanticCouncil @ukrpravda_news, @StopFakingNews, @voxukraine, @_EmergingEurope,@EuromaidanPress. Formerly @TRCanadaLegal.",
+    "description": "Analyst focused on Ukraine. @politico, @euobs, @AtlanticCouncil @ukrpravda_news, @StopFakingNews, @voxukraine, @_EmergingEurope. Formerly @TRCanadaLegal.",
     "following": true,
     "id": 2272111265,
     "id_str": "2272111265",
@@ -646,7 +646,8 @@
     "profile_sidebar_fill_color": "DDFFCC",
     "profile_text_color": "333333",
     "profile_use_background_image": true,
-    "screen_name": "GicAriana"
+    "screen_name": "GicAriana",
+    "url": "https://t.co/xEt7TNsf0s"
   },
   {
     "created_at": "Fri Aug 11 01:11:39 +0000 2017",
