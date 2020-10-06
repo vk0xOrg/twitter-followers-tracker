@@ -1943,7 +1943,6 @@
     "created_at": "Tue Jan 03 23:08:39 +0000 2017",
     "description": "NeFiTeSi ENFP 7w6 chaotic evil \ud83e\udd7a\nThe Ultimate Horny Cringe\ud83e\udd7a\n\u0420\u0435\u0432\u043e\u0432\u0430 \u0441\u043e\u043c\u0435\u043b\u044c\u0454 \u043d\u043e\u043c\u0435\u0440 1 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \ud83e\udd7a \n\u0428\u0438\u0442 \u043f\u043e\u0441\u0442\u0456\u043d\u0433 \u044f\u043a \u0441\u0442\u0438\u043b\u044c \u0436\u0438\u0442\u0442\u044f \ud83e\udd7a\n19 \u043f\u043e\u0432\u043d\u0438\u0445 \u043e\u0431\u0435\u0440\u0442\u0456\u0432 \u043d\u0430\u0432\u043a\u043e\u043b\u043e \u0421\u043e\u043d\u0446\u044f",
     "following": true,
-    "geo_enabled": true,
     "id": 816421042130419712,
     "id_str": "816421042130419712",
     "location": "\u0442\u0432\u043e\u0454 \u043b\u0438\u0446\u0435",
@@ -1958,6 +1957,7 @@
     "profile_sidebar_border_color": "000000",
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
+    "protected": true,
     "screen_name": "oksanya_joestar"
   },
   {
